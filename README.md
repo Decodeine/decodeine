@@ -14,8 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![MasterHead](https://c8.alamy.com/comp/HDPHY4/cartoon-hacker-man-with-cyber-security-icons-around-colorful-design-HDPHY4.jpg
-)<h1 align="center">Hi 👋, I'm Adesola</h1>
+[![MasterHead](https://c8.alamy.com/comp/HDPHY4/cartoon-hacker-man-with-cyber-security-icons-around-colorful-design-HDPHY4.jpg =400*400 )<h1 align="center">Hi 👋, I'm Adesola</h1>
 <h3 align="center">A passionate full stack developer and cyber security enthusiast from Nigeria</h3>   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=decodeine&label=Profile%20views&color=0e75b6&style=flat" alt="decodeine" /> </p>
 
