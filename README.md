@@ -24,7 +24,7 @@ Hi 👋, I'm Adesola</h1>
 
 - 🔭 I’m currently working on a Ddos prevention project using python and machine learning [ddos/prevention](project is private for now)
 
-- 🌱 I’m currently learning *ethical hacking with heath adams*
+- 🌱 I’m currently learning *ethical hacking *
 
 - 👯 I’m looking to collaborate on [restaurant project](https://github.com/Decodeine/restaurant)
 
